@@ -1,4 +1,4 @@
-# Windows Packaging 101
+# Windows Packaging
 <details><summary> Packaging technologies </summary>
   
 ### MSI (Microsoft System Installer)
