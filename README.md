@@ -1,10 +1,6 @@
 # Windows Packaging 101
-
-## Fundamental concepts
-* https://helgeklein.com/blog/active-setup-explained/
-* https://learn.microsoft.com/en-us/windows/win32/setupapi/run-and-runonce-registry-keys
-
-## Packaging technologies
+<details><summary> Packaging technologies </summary>
+  
 ### MSI (Microsoft System Installer)
 * https://learn.microsoft.com/en-us/windows/win32/msi/
 * https://learn.microsoft.com/en-us/windows/win32/msi/command-line-options
@@ -29,17 +25,32 @@ https://www.ej-technologies.com/resources/install4j/help/doc/main/introduction.h
 ### NSIS
 https://nsis.sourceforge.io/Docs/
 
-## Scripting
+</details>
+
+<details><summary> Scripting </summary>
+  
 * PowerShell
 * [AutoIt](https://www.autoitscript.com/site/)
 * Batch
 * VBScript
 
-## Automation Framework
+</details>
+
+<details><summary> Automation Framework </summary>
+
 [PowerShell Application Deployment Toolkit](https://psappdeploytoolkit.com/docs/)
 
-## Tools
+</details>
+
+<details><summary> Tools</summary>
+  
 * [Orca](https://learn.microsoft.com/en-us/windows/win32/msi/orca-exe)
 * https://regexr.com/
 
+</details>
 
+<details><summary> Misc info </summary>
+  
+* https://helgeklein.com/blog/active-setup-explained/
+* https://learn.microsoft.com/en-us/windows/win32/setupapi/run-and-runonce-registry-keys
+</details>
