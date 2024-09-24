@@ -29,10 +29,15 @@ https://nsis.sourceforge.io/Docs/
 
 <details><summary> Scripting </summary>
   
-* PowerShell
-* [AutoIt](https://www.autoitscript.com/site/)
-* Batch
-* VBScript
+- PowerShell
+  - https://learn.microsoft.com/en-us/training/modules/introduction-to-powershell/
+  - https://learn.microsoft.com/en-us/training/browse/?terms=powershell
+  - https://www.youtube.com/playlist?list=PL6D474E721138865A
+  - https://www.youtube.com/playlist?list=PLlVtbbG169nFq_hR7FcMYg32xsSAObuq8
+  - https://www.reddit.com/r/PowerShell/wiki/beginners/
+- [AutoIt](https://www.autoitscript.com/site/)
+- Batch
+- VBScript
 
 </details>
 
