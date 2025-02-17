@@ -51,7 +51,7 @@ https://nsis.sourceforge.io/Docs/
   
 * [Orca](https://learn.microsoft.com/en-us/windows/win32/msi/orca-exe)
 * https://regexr.com/
-
+* https://github.com/digitalsleuth/autoit-extractor
 </details>
 
 <details><summary> Misc info </summary>
